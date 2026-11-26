@@ -78,4 +78,5 @@ This discovered pattern can help the supermarket improve product placement and m
 
 KDD and Data Mining are interconnected concepts in Data Science. KDD represents the entire knowledge discovery process, whereas Data Mining is one of its essential steps, responsible for extracting meaningful patterns from data.
 
+
 **In simple terms: Data Mining is a part of KDD, but KDD is not limited to Data Mining.**
