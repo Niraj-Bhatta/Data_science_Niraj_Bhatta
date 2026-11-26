@@ -88,4 +88,5 @@ Structured and unstructured datasets are two major forms of data used in Data Sc
 
 Structured data follows a predefined format and is easier to store, query, and analyze, whereas unstructured data does not follow a fixed format and often requires advanced techniques and specialized tools for processing.
 
+
 **In simple terms: Structured data is organized and tabular, whereas unstructured data is not organized in a predefined tabular format.**
