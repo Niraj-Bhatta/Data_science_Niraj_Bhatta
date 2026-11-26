@@ -16,9 +16,9 @@ Each assignment is documented in a separate Markdown (`.md`) file, covering the 
 
 | S.N. | Assignment | Description |
 |:---:|:---|:---|
-| 01 | [Assignment 01](Assignment_01.md) |  Submitted |
-| 02 | [Assignment 02](Assignment_02.md) | Sumbitted |
-| 03 | [Assignment 03](Assignment_03.md) | Submitted |
+| 01 | [Assignment 01](Assignment_1.md) |  Submitted |
+| 02 | [Assignment 02](Assignment_2.md) | Sumbitted |
+| 03 | [Assignment 03](Assignment_3.md) | Submitted |
 
 *More assignments will be added throughout the course.*
 
